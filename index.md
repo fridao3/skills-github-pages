@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-p: hello World!
+Hello World!
 ---
