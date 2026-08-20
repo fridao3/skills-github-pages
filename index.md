@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog! 
-wowie!
+p: wowie!
 ---
 # Hello world
 Is it working now?
