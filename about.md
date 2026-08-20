@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 ## Who I am
 insert text
 
